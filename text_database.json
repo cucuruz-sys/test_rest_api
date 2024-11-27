@@ -1,0 +1,9 @@
+{
+    "texts": [
+        "FastAPI is a modern web framework for building APIs.",
+        "The TF-IDF model is commonly used for text similarity tasks.",
+        "NLP is a fascinating field that combines linguistics and computer science.",
+        "This example demonstrates a simple text search using cosine similarity.",
+        "spaCy provides pre-trained models for natural language processing."
+    ]
+}
